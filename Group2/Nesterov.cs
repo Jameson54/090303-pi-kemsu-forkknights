@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ForkKnights.Group1 {
+namespace ForkKnights.Group2 {
 
   public class Nesterov : IKnight {
     public string Name;
