@@ -5,7 +5,7 @@ namespace ForkKnights.Group2 {
 
   public class Saibuu : IKnight {
 
-    public string Name;
+    public string Name { get; set; }
     public int ToxicYield;
     public string VenomProtocol;
     public int ChemStorage;

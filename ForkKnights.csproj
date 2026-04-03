@@ -58,7 +58,7 @@
     <Compile Include="IKnight.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Saibuu.cs" />
+    <Compile Include="Group2\Saibuu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
