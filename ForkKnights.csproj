@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Group3\Konovalov.cs" />
     <Compile Include="Group3\Soldatov.cs" />
     <Compile Include="Group3\Nekrasov.cs" />
     <Compile Include="Group3\Rudnev.cs" />
@@ -58,6 +59,7 @@
   <ItemGroup>
     <Folder Include="Group1\" />
     <Folder Include="Group2\" />
+    <Folder Include="Group3\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
